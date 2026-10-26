@@ -3,7 +3,7 @@
 AI service that walks through a website as elderly, low-vision, non-native and hurried users,
 finds where they get stuck and proposes fixes. Team of 5.
 
-💡 **Initiator:** the project started with my idea, which the team choose and built together.
+💡 **Initiator:** the project started with my idea, which the team chose and built together.
 
 
 **My role:** persona perception module, UX issue analyst and auto-fixer
