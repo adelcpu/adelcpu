@@ -1,4 +1,4 @@
-## 🥇 Newbie Crash Test — 1st place, FCS Vibecoding Hackathon (Oct 2026)
+## 🥇 Newbie Crash Test — 1st place, HSE FCS Vibecoding Hackathon (Oct 2026)
 
 AI service that walks through a website as elderly, low-vision, non-native and hurried users,
 finds where they get stuck and proposes fixes. Team of 5.
