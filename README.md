@@ -10,3 +10,5 @@ finds where they get stuck and proposes fixes. Team of 5.
 -  **Fix loop:** finds the issue → applies a CSS fix → reruns the same persona to prove it helped
 
 `Python` `JavaScript` `Playwright` `FastAPI` `LLM / Claude`
+
+🔒 Private team repository — available on request.
