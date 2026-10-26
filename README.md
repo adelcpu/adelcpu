@@ -8,7 +8,8 @@ finds where they get stuck and proposes fixes. Team of 5.
 - **Persona vision:** blur, low contrast, tiny text → ░░░, unknown words → gibberish for non-native users
 - **Analyst:** measures elements in the browser (WCAG contrast, size, overlap) and maps issues to WCAG, Nielsen and GOST heuristics
 - **Fix loop:** finds the issue → applies a CSS fix → reruns the same persona to prove it helped
-- 💡 **Initiator:** the project started with my idea, which the team choose and built together. 
+- 💡 **Initiator:** the project started with my idea, which the team choose and built together.
+
 `Python` `JavaScript` `Playwright` `FastAPI` `LLM / Claude`
 
 🔒 Private team repository — available on request.
